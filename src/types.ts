@@ -1,16 +1,8 @@
 import { TokenInfo, TokenList } from '@uniswap/token-lists'
 
 export enum Network {
-  Ethereum = '1',
-  Goerli = '5',
-  Optimism = '10',
-  Gnosis = '100',
-  Polygon = '137',
-  Zkevm = '1101',
   Base = '8453',
-  Arbitrum = '42161',
-  Avalanche = '43114',
-  Sepolia = '11155111',
+  BaseGoerli = '84531',
 }
 
 export interface Config {
