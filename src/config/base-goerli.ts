@@ -1,6 +1,6 @@
 export default {
-  name: 'base',
-  rpc: 'https://mainnet.base.org',
+  name: 'base-goerli',
+  rpc: 'https://goerli.base.org',
   coingecko: {
     platformId: 'base',
   },
