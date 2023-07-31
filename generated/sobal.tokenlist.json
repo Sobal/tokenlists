@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-07-31T21:18:40.124Z",
+    "timestamp": "2023-07-31T23:47:42.089Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -66,6 +66,13 @@
             "symbol": "cbETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4fc531f8ae7a7808e0dccca08f1e3c7694582950.png"
+        },
+        {
+            "chainId": 84531,
+            "address": "0x1c9c959E03A64452B2969a95aA6d11Af5c505f79",
+            "name": "TT1",
+            "symbol": "TT",
+            "decimals": 18
         }
     ]
 }
