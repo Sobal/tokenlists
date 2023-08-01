@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-08-01T00:14:39.380Z",
+    "timestamp": "2023-08-01T03:27:03.314Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -42,6 +42,13 @@
             "symbol": "cbETH",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+            "name": "Axelar Wrapped USDC",
+            "symbol": "axlUSDC",
+            "decimals": 6
         },
         {
             "chainId": 84531,
