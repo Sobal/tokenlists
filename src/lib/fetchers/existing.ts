@@ -67,7 +67,7 @@ function fetchLocalTokenIcons(network: Network): PartialTokenInfoMap {
     tokenIcons.push({
       address: getAddress(address),
       // eslint-disable-next-line max-len
-      logoURI: `https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/${fileName.toLowerCase()}.png`,
+      logoURI: `https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/${fileName.toLowerCase()}.png`,
     })
   })
 

@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-08-01T03:27:03.314Z",
+    "timestamp": "2023-08-01T04:11:28.070Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -25,7 +25,7 @@
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png"
         },
         {
             "chainId": 8453,
@@ -33,7 +33,7 @@
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x50c5725949a6f0c72e6c4a641f24049a917db0cb.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x50c5725949a6f0c72e6c4a641f24049a917db0cb.png"
         },
         {
             "chainId": 8453,
@@ -41,14 +41,15 @@
             "name": "Coinbase Wrapped Staked ETH",
             "symbol": "cbETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22.png"
         },
         {
             "chainId": 8453,
             "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
             "name": "Axelar Wrapped USDC",
             "symbol": "axlUSDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xeb466342c4d449bc9f53a865d5cb90586f405215.png"
         },
         {
             "chainId": 84531,
@@ -56,7 +57,7 @@
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png"
         },
         {
             "chainId": 84531,
@@ -64,7 +65,7 @@
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x174956bdfbceb6e53089297cce4fe2825e58d92c.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x174956bdfbceb6e53089297cce4fe2825e58d92c.png"
         },
         {
             "chainId": 84531,
@@ -72,7 +73,7 @@
             "name": "Coinbase Wrapped Staked ETH",
             "symbol": "cbETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4fc531f8ae7a7808e0dccca08f1e3c7694582950.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x4fc531f8ae7a7808e0dccca08f1e3c7694582950.png"
         },
         {
             "chainId": 84531,
