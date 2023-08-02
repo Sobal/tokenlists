@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-08-01T04:11:28.070Z",
+    "timestamp": "2023-08-02T01:04:23.695Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -50,6 +50,14 @@
             "symbol": "axlUSDC",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xeb466342c4d449bc9f53a865d5cb90586f405215.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+            "name": "Bald",
+            "symbol": "BALD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8.png"
         },
         {
             "chainId": 84531,
