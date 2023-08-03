@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-08-03T15:03:27.805Z",
+    "timestamp": "2023-08-03T15:19:00.536Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -66,6 +66,15 @@
             "symbol": "BALD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c",
+            "name": "Toshi",
+            "symbol": "TOSHI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x8544fe9d190fd7ec52860abbf45088e81ee24a8c.png"
+
         },
         {
             "chainId": 84531,
