@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-08-03T15:19:00.536Z",
+    "timestamp": "2023-08-04T03:03:42.376Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -74,7 +74,6 @@
             "symbol": "TOSHI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x8544fe9d190fd7ec52860abbf45088e81ee24a8c.png"
-
         },
         {
             "chainId": 84531,
@@ -112,6 +111,13 @@
             "address": "0x3Ce827054de4536Fed802C0C466fAEe711AeA5ce",
             "name": "USDC",
             "symbol": "TT",
+            "decimals": 18
+        },
+        {
+            "chainId": 245022934,
+            "address": "0x985b565665FB07133F2aF74Ee1C9B0aDB29Bd3d3",
+            "name": "Sobal USDC-USDT Stable Pool",
+            "symbol": "SPT-stable",
             "decimals": 18
         }
     ]
