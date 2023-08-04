@@ -3,6 +3,8 @@ import { TokenInfo, TokenList } from '@uniswap/token-lists'
 export enum Network {
   Base = '8453',
   BaseGoerli = '84531',
+  NeonDevnet = '245022926',
+  Neon = '245022934',
 }
 
 export interface Config {
