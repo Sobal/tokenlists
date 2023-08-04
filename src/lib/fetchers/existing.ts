@@ -51,7 +51,7 @@ function fetchLocalTokenIcons(network: Network): PartialTokenInfoMap {
   const localImages: string[] = fs.readdirSync('src/assets/images/tokens')
   localImages.map((imageName) => {
     let address: string
-    const fileName = imageName.split('.png')[0]
+    const fileName = imageName.split('.svg')[0]
 
     if (!isAddress(fileName)) {
       const [_network, _address] = (fileName as string).split('_')
@@ -67,7 +67,7 @@ function fetchLocalTokenIcons(network: Network): PartialTokenInfoMap {
     tokenIcons.push({
       address: getAddress(address),
       // eslint-disable-next-line max-len
-      logoURI: `https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/${fileName.toLowerCase()}.png`,
+      logoURI: `https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/${fileName.toLowerCase()}.svg`,
     })
   })
 
