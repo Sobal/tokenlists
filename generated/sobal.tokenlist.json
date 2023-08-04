@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-08-04T03:32:45.080Z",
+    "timestamp": "2023-08-04T04:00:41.537Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -25,7 +25,7 @@
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.svg"
         },
         {
             "chainId": 8453,
@@ -33,7 +33,7 @@
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x50c5725949a6f0c72e6c4a641f24049a917db0cb.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x50c5725949a6f0c72e6c4a641f24049a917db0cb.svg"
         },
         {
             "chainId": 8453,
@@ -41,7 +41,7 @@
             "name": "USD Base Coin",
             "symbol": "USDbC",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca.svg"
         },
         {
             "chainId": 8453,
@@ -49,7 +49,7 @@
             "name": "Coinbase Wrapped Staked ETH",
             "symbol": "cbETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22.svg"
         },
         {
             "chainId": 8453,
@@ -57,7 +57,7 @@
             "name": "Axelar Wrapped USDC",
             "symbol": "axlUSDC",
             "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xeb466342c4d449bc9f53a865d5cb90586f405215.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xeb466342c4d449bc9f53a865d5cb90586f405215.svg"
         },
         {
             "chainId": 8453,
@@ -65,7 +65,7 @@
             "name": "Bald",
             "symbol": "BALD",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8.svg"
         },
         {
             "chainId": 8453,
@@ -73,7 +73,7 @@
             "name": "Toshi",
             "symbol": "TOSHI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x8544fe9d190fd7ec52860abbf45088e81ee24a8c.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x8544fe9d190fd7ec52860abbf45088e81ee24a8c.svg"
         },
         {
             "chainId": 84531,
@@ -81,7 +81,7 @@
             "name": "Wrapped Ether",
             "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x4200000000000000000000000000000000000006.svg"
         },
         {
             "chainId": 84531,
@@ -89,7 +89,7 @@
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x174956bdfbceb6e53089297cce4fe2825e58d92c.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x174956bdfbceb6e53089297cce4fe2825e58d92c.svg"
         },
         {
             "chainId": 84531,
@@ -97,7 +97,7 @@
             "name": "Coinbase Wrapped Staked ETH",
             "symbol": "cbETH",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x4fc531f8ae7a7808e0dccca08f1e3c7694582950.png"
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x4fc531f8ae7a7808e0dccca08f1e3c7694582950.svg"
         },
         {
             "chainId": 84531,
@@ -118,119 +118,136 @@
             "address": "0x11adC2d986E334137b9ad0a0F290771F31e9517F",
             "name": "Wrapped Neon",
             "symbol": "WNEON",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x11adc2d986e334137b9ad0a0f290771f31e9517f.svg"
         },
         {
             "chainId": 245022926,
             "address": "0x6eEf939FC6e2B3F440dCbB72Ea81Cd63B5a519A5",
             "name": "USDT",
             "symbol": "USDT",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x6eef939fc6e2b3f440dcbb72ea81cd63b5a519a5.svg"
         },
         {
             "chainId": 245022926,
             "address": "0xC989FfF9d02C459117A2EaBb8dA3f03DFd9045DE",
             "name": "Dai Stablecoin (Wormhole)",
             "symbol": "wDAI",
-            "decimals": 9
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xc989fff9d02c459117a2eabb8da3f03dfd9045de.svg"
         },
         {
             "chainId": 245022926,
             "address": "0x512E48836Cd42F3eB6f50CEd9ffD81E0a7F15103",
             "name": "USD Coin",
             "symbol": "USDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x512e48836cd42f3eb6f50ced9ffd81e0a7f15103.svg"
         },
         {
             "chainId": 245022926,
             "address": "0x46E986B5b0f87F1026ff52Ce20340467199F891D",
             "name": "Wrapped Ethereum (Sollet)",
             "symbol": "wETH",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x46e986b5b0f87f1026ff52ce20340467199f891d.svg"
         },
         {
             "chainId": 245022926,
             "address": "0x2B86AEf728405F8F6597e5896a1844E36ddE77aD",
             "name": "Wrapped BTC (Wormhole)",
             "symbol": "wWBTC",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x2b86aef728405f8f6597e5896a1844e36dde77ad.svg"
         },
         {
             "chainId": 245022926,
             "address": "0x10D486dD3B38a304cF61e8dA70ADED03D9a7787A",
             "name": "Wrapped Aave",
             "symbol": "AAVE",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x10d486dd3b38a304cf61e8da70aded03d9a7787a.svg"
         },
         {
             "chainId": 245022926,
             "address": "0x4cfb9dffB6998fB74c89a094E3A8373EA3C081ff",
             "name": "Curve DAO Token (Wormhole)",
             "symbol": "wCRV",
-            "decimals": 9
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x4cfb9dffb6998fb74c89a094e3a8373ea3c081ff.svg"
         },
         {
             "chainId": 245022926,
             "address": "0x72a3DD8111813d9B29ACAB4b90622Ba95BDF1414",
             "name": "Wrapped SUSHI (Sollet)",
             "symbol": "SUSHI",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x72a3dd8111813d9b29acab4b90622ba95bdf1414.svg"
         },
         {
             "chainId": 245022926,
             "address": "0x7047dcc44E38798AC0CB9DE465609A7dd95d04dC",
             "name": "Balancer (Wormhole)",
             "symbol": "wBAL",
-            "decimals": 9
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x7047dcc44e38798ac0cb9de465609a7dd95d04dc.svg"
         },
         {
             "chainId": 245022926,
             "address": "0xc7Fc9b46e479c5Cb42f6C458D1881e55E6B7986c",
             "name": "Wrapped SOL",
             "symbol": "SOL",
-            "decimals": 9
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xc7fc9b46e479c5cb42f6c458d1881e55e6b7986c.svg"
         },
         {
             "chainId": 245022934,
             "address": "0x202C35e517Fa803B537565c40F0a6965D7204609",
             "name": "Wrapped Neon",
             "symbol": "WNEON",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x202c35e517fa803b537565c40f0a6965d7204609.svg"
         },
         {
             "chainId": 245022934,
             "address": "0x54EcEC9D995A6CbFF3838F6a8F38099E518805d7",
             "name": "Wrapped Bitcoin (Sollet)",
             "symbol": "BTC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x54ecec9d995a6cbff3838f6a8f38099e518805d7.svg"
         },
         {
             "chainId": 245022934,
             "address": "0xcFFd84d468220c11be64dc9dF64eaFE02AF60e8A",
             "name": "Wrapped Ether (Wormhole)",
             "symbol": "WETH",
-            "decimals": 8
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xcffd84d468220c11be64dc9df64eafe02af60e8a.svg"
         },
         {
             "chainId": 245022934,
             "address": "0x5f38248f339Bf4e84A2caf4e4c0552862dC9F82a",
             "name": "Wrapped SOL",
             "symbol": "SOL",
-            "decimals": 9
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x5f38248f339bf4e84a2caf4e4c0552862dc9f82a.svg"
         },
         {
             "chainId": 245022934,
             "address": "0xEA6B04272f9f62F997F666F07D3a974134f7FFb9",
             "name": "USD Coin",
             "symbol": "USDC",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xea6b04272f9f62f997f666f07d3a974134f7ffb9.svg"
         },
         {
             "chainId": 245022934,
             "address": "0x5f0155d08eF4aaE2B500AefB64A3419dA8bB611a",
             "name": "USDT",
             "symbol": "USDT",
-            "decimals": 6
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x5f0155d08ef4aae2b500aefb64a3419da8bb611a.svg"
         },
         {
             "chainId": 245022934,
