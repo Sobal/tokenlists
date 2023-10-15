@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-10-15T08:54:29.608Z",
+    "timestamp": "2023-10-15T09:32:48.934Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -29,11 +29,26 @@
         },
         {
             "chainId": 8453,
+            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.png"
+        },
+        {
+            "chainId": 8453,
             "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x50c5725949a6f0c72e6c4a641f24049a917db0cb.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x6372Ec09dbf0c2907bB7B1529A1Fc6359310f1bd",
+            "name": "Sobal Stable USD",
+            "symbol": "SPT-stable",
+            "decimals": 18
         },
         {
             "chainId": 8453,
@@ -61,14 +76,6 @@
         },
         {
             "chainId": 8453,
-            "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
-            "name": "Bald",
-            "symbol": "BALD",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8.png"
-        },
-        {
-            "chainId": 8453,
             "address": "0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c",
             "name": "Toshi",
             "symbol": "TOSHI",
@@ -77,18 +84,11 @@
         },
         {
             "chainId": 8453,
-            "address": "0x6372Ec09dbf0c2907bB7B1529A1Fc6359310f1bd",
-            "name": "Sobal Stable USD",
-            "symbol": "SPT-stable",
-            "decimals": 18
-        },
-        {
-            "chainId": 8453,
-            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-            "name": "USD Coin",
-            "symbol": "USDC",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.png"
+            "address": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+            "name": "Bald",
+            "symbol": "BALD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x27d2decb4bfc9c76f0309b8e88dec3a601fe25a8.png"
         },
         {
             "chainId": 8453,
