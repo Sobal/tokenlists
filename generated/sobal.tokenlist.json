@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-08-04T23:08:11.387Z",
+    "timestamp": "2023-10-15T08:54:29.608Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -81,6 +81,22 @@
             "name": "Sobal Stable USD",
             "symbol": "SPT-stable",
             "decimals": 18
+        },
+        {
+            "chainId": 8453,
+            "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x833589fcd6edb6e08f4c7c32d4f71b54bda02913.png"
+        },
+        {
+            "chainId": 8453,
+            "address": "0x9EaF8C1E34F05a589EDa6BAfdF391Cf6Ad3CB239",
+            "name": "yearn.finance",
+            "symbol": "YFI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239.png"
         },
         {
             "chainId": 84531,
