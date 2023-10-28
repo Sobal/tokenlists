@@ -6,4 +6,5 @@ export default [
   '0xEA6B04272f9f62F997F666F07D3a974134f7FFb9', // USDC
   '0x5f0155d08eF4aaE2B500AefB64A3419dA8bB611a', // USDT
   '0x985b565665fb07133f2af74ee1c9b0adb29bd3d3', // SPT-stable (Sobal USDT-USDC)
+  '0x14ccffc97ac156a7f1e3183adaa8e7cc888ad162', // LST
 ]
