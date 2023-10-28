@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-10-28T12:37:40.705Z",
+    "timestamp": "2023-10-28T12:39:37.338Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -284,7 +284,8 @@
             "address": "0x14CCfFC97aC156A7f1E3183adAa8E7CC888AD162",
             "name": "Liquid Staking Token",
             "symbol": "LST",
-            "decimals": 9
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x14ccffc97ac156a7f1e3183adaa8e7cc888ad162.png"
         }
     ]
 }
