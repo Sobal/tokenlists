@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-10-28T12:39:37.338Z",
+    "timestamp": "2023-12-01T10:18:18.398Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -286,6 +286,14 @@
             "symbol": "LST",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x14ccffc97ac156a7f1e3183adaa8e7cc888ad162.png"
+        },
+        {
+            "chainId": 245022934,
+            "address": "0x07F8fABcF942CB67bF92B051eA33E315f12bbb70",
+            "name": "ZKUSD Stablecoin",
+            "symbol": "ZKUSD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x07f8fabcf942cb67bf92b051ea33e315f12bbb70.png"
         }
     ]
 }
