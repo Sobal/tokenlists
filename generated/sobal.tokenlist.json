@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-12-01T10:18:18.398Z",
+    "timestamp": "2023-12-07T22:23:24.970Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -294,6 +294,14 @@
             "symbol": "ZKUSD",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x07f8fabcf942cb67bf92b051ea33e315f12bbb70.png"
+        },
+        {
+            "chainId": 245022934,
+            "address": "0x2043191e10a2A4b4601F5123D6C94E000b5d915F",
+            "name": "Mora",
+            "symbol": "MORA",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x2043191e10a2a4b4601f5123d6c94e000b5d915f.png"
         }
     ]
 }
