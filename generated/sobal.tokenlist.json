@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-12-07T22:23:24.970Z",
+    "timestamp": "2023-12-10T23:51:11.434Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -302,6 +302,22 @@
             "symbol": "MORA",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x2043191e10a2a4b4601f5123d6c94e000b5d915f.png"
+        },
+        {
+            "chainId": 245022934,
+            "address": "0x6d12eAA69f8e4902D3F83d546B31F7318717014C",
+            "name": "Mango",
+            "symbol": "MNGO",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x6d12eaa69f8e4902d3f83d546b31f7318717014c.png"
+        },
+        {
+            "chainId": 245022934,
+            "address": "0x96e636d3Ef60ee9745945120010c73619144632C",
+            "name": "2080",
+            "symbol": "2080",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x96e636d3ef60ee9745945120010c73619144632c.png"
         }
     ]
 }
