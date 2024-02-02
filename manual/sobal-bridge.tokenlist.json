@@ -15,6 +15,15 @@
         "name": "Wen",
         "symbol": "WEN",
         "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xc61e8ab62666d25f0854c5723587507a7e92e289.png"
+      },
+      {
+        "chainId": 245022934,
+        "address_spl": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+        "address": "0x9F0fCE2AB962984b1EE50108A8510eA190BeEb8d",
+        "decimals": 6,
+        "name": "Jupiter",
+        "symbol": "JUP",
+        "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x9f0fce2ab962984b1ee50108a8510ea190beeb8d.png"
       }
     ],
     "version": {

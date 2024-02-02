@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2024-02-02T19:56:57.310Z",
+    "timestamp": "2024-02-02T20:13:18.747Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -326,6 +326,14 @@
             "symbol": "WEN",
             "decimals": 5,
             "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xc61e8ab62666d25f0854c5723587507a7e92e289.png"
+        },
+        {
+            "chainId": 245022934,
+            "address": "0x9F0fCE2AB962984b1EE50108A8510eA190BeEb8d",
+            "name": "Jupiter",
+            "symbol": "JUP",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x9f0fce2ab962984b1ee50108a8510ea190beeb8d.png"
         }
     ]
 }
