@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2023-12-10T23:51:11.434Z",
+    "timestamp": "2024-02-02T19:56:57.310Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -318,6 +318,14 @@
             "symbol": "2080",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x96e636d3ef60ee9745945120010c73619144632c.png"
+        },
+        {
+            "chainId": 245022934,
+            "address": "0xc61e8aB62666D25F0854C5723587507A7E92E289",
+            "name": "Wen",
+            "symbol": "WEN",
+            "decimals": 5,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xc61e8ab62666d25f0854c5723587507a7e92e289.png"
         }
     ]
 }
