@@ -5,7 +5,7 @@
       "bridge",
       "defi"
     ],
-    "timestamp": "2024-02-02T19:18:05.302+00:00",
+    "timestamp": "2024-02-02T23:37:12.052+00:00",
     "tokens": [
       {
         "chainId": 245022934,
@@ -24,11 +24,20 @@
         "name": "Jupiter",
         "symbol": "JUP",
         "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x9f0fce2ab962984b1ee50108a8510ea190beeb8d.png"
+      },
+      {
+        "chainId": 245022934,
+        "address_spl": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "address": "0xF86934c2b05c31f3bBE3BCd6E3a8aA7790cAd9c1",
+        "decimals": 6,
+        "name": "dogwifhat",
+        "symbol": "$WIF",
+        "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xf86934c2b05c31f3bbe3bcd6e3a8aa7790cad9c1.png"
       }
     ],
     "version": {
       "major": 1,
-      "minor": 0,
+      "minor": 1,
       "patch": 0
     }
   }

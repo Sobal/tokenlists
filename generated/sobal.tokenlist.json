@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://app.sobal.fi/images/logos/logo512.png",
-    "timestamp": "2024-02-02T20:13:18.747Z",
+    "timestamp": "2024-02-02T23:37:37.330Z",
     "tokens": [
         {
             "chainId": 8453,
@@ -334,6 +334,14 @@
             "symbol": "JUP",
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0x9f0fce2ab962984b1ee50108a8510ea190beeb8d.png"
+        },
+        {
+            "chainId": 245022934,
+            "address": "0xF86934c2b05c31f3bBE3BCd6E3a8aA7790cAd9c1",
+            "name": "dogwifhat",
+            "symbol": "$WIF",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/Sobal/tokenlists/main/src/assets/images/tokens/0xf86934c2b05c31f3bbe3bcd6e3a8aa7790cad9c1.png"
         }
     ]
 }
